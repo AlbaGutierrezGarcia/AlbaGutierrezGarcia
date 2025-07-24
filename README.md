@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Alba Gutiérrez García
+# 👋 Hi, I’m Alba 
 
 🎯 I'm focused on becoming a **Backend Developer** specialized in **Java** technologies.
 
