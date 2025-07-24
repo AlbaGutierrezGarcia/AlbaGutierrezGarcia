@@ -8,7 +8,7 @@
 - 🤝 I’m open to collaborating on Java-based projects, especially those involving Spring Framework and relational databases.
 - 📫 You can reach me via:
   - 💌 Email: [albagutierrezgarcia.dev@gmail.com](mailto:albagutierrezgarcia.dev@gmail.com)  
-  - 💼 LinkedIn: [Alba Gutiérrez García]([https://www.linkedin.com/](https://www.linkedin.com/in/alba-guti%C3%A9rrez-garc%C3%ADa/) 
+  - 💼 LinkedIn: [Alba Gutiérrez García](https://www.linkedin.com/in/alba-guti%C3%A9rrez-garc%C3%ADa/)
 
 ## 🛠️ Technologies I Work With
 - **Languages**: Java  
